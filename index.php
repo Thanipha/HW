@@ -19,8 +19,9 @@
     </table>
     <style>
         table {
-            width: 150px;
+            width: 300px;
             height: 200px;
+            background-color: #43a5be;
         }
         div.HW{
             width: 300px;
@@ -29,9 +30,10 @@
         }
         h1{
             color: #be398d;
+            text-shadow: 3px 3px yellow;
         }
         body {
-            background-color: #43a5be;
+            /*background-color: #43a5be;*/
             color:#ffffff;
         }
         
