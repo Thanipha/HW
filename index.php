@@ -27,6 +27,14 @@
             height: 200px;
             overflow-y : scroll ;
         }
+        h1{
+            color: #be398d;
+        }
+        body {
+            background-color: #43a5be;
+            color:#ffffff;
+        }
+        
     </style>
 </body>
 </html>
